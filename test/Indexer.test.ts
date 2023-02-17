@@ -8,7 +8,6 @@ import {
 } from '../src/Indexer'
 import express from 'express'
 import bodyParser from 'body-parser'
-import { FullOrderERC20 } from '@airswap/typescript'
 import { Server } from 'http'
 
 describe('toSortField', () => {
